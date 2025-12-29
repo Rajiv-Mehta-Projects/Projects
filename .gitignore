@@ -1,0 +1,5 @@
+dataset/*
+phase_2/data/*
+lung_colon_image_set.zip
+cervical_cancer_dataset.zip
+.DS_Store
